@@ -1,5 +1,5 @@
 {
-  "name": "REPO",
+  "name": "repo",
   "version": "1.0.0",
   "description": "Template para proyectos npm",
   "main": "dist/index.js",
