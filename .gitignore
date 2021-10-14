@@ -105,3 +105,4 @@ dist
 
 #Project ignores
 src/Main.ts
+package-lock.json
